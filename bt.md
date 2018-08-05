@@ -43,9 +43,9 @@ VCC | +5v
 TX | RX
 RX | TX
 
-Настройка происходит через Arduino IDE - Serial Monitor (Монитор порта) Туда пишутся команды а модуль как-то на них отвечает:
+Настройка происходит через Arduino IDE - Serial Monitor (Монитор порта) 
+Туда пишутся команды, а модуль как-то на них отвечает.
 Чтобы зайти в AT режим необходимо подключать модуль с нажатой кнопкой на переходной платке.
-
 В Serial Monitor необзодимо выставить скорость 38400 и перевод строки Both NL & CR (это стандартно для AT режима) 
 
 ![Image](https://raw.githubusercontent.com/minsk-hackerspace/Robbal/master/images/Screen_29.png)
