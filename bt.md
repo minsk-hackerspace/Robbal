@@ -48,7 +48,7 @@ RX | TX
 
 В Serial Monitor необзодимо выставить скорость 38400 и перевод строки Both NL & CR (это стандартно для AT режима) 
 
-![Image](Screen_29.png)
+![Image](https://raw.githubusercontent.com/minsk-hackerspace/Robbal/master/images/Screen_29.png)
 
 Команда | Значение
 --- | ---
