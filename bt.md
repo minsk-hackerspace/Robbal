@@ -21,11 +21,70 @@
 Так же на плате есть кнопка позволяющая перевести модуль в режим AT команд, зачем описано ниже.
 
 ![Image](https://raw.githubusercontent.com/minsk-hackerspace/Robbal/master/images/DSC_8933.jpg)
-Модуль необходимо припапять на плату
+
+Модуль необходимо припапять на плату вот таким вот образом:
 ![Image](https://raw.githubusercontent.com/minsk-hackerspace/Robbal/master/images/DSC_8934.jpg)
+
 Должно получится что-то такое:
 ![Image](https://raw.githubusercontent.com/minsk-hackerspace/Robbal/master/images/DSC_8984.jpg)
 
+Далее необходимо настроить модуль под свои нужны. Все модули по дефолту имеют одинаковое имя и пароль, а так-же дефолтная скорость всего 9600 бод.
 
+Для этого модуль подсоединяется к любому USB-UART переходнику, на нем джамперои или переключателем выставляется напряжение 3.3 вольта. USB-UART через USB подключается к компьютеру с Ardiono IDE
 
-- [Мануал/даташит по модулю HC-05](https://www.gme.cz/data/attachments/dsh.772-148.1.pdf)
+![Image](https://raw.githubusercontent.com/minsk-hackerspace/Robbal/master/images/DSC_8991.jpg)
+
+Подключение такое:
+UART | HC-05
+--- | ---
+GND | GND
+VCC | +5v
+TX | RX
+RX | TX
+
+Настройка происходит через Arduino IDE - Serial Monitor (Монитор порта) Туда пишутся команды а модуль как-то на них отвечает:
+Чтобы зайти в AT режим необходимо подключать модуль с нажатой кнопкой на переходной платке.
+
+В Serial Monitor необзодимо выставить скорость 38400 и перевод строки Both NL & CR (это стандартно для AT режима) 
+
+![Image](Screen_29.png)
+
+Команда | Значение
+--- | ---
+AT | пустой запрос ответом должен быть OK
+AT+NAME? | спросить имя модуля
+AT+NAME=Robbal | задать имя модуля Robbal
+AT+PSWD? | спросить пин код
+AT+PSWD="1122" | Задать пин код 1122
+AT+UART=115200,0,0 | Задать скорость уарт 115200 бод
+AT+RESET | перезагрузка и выход из AT режима
+
+Полный листинг лог которым настраивая я 
+```
+> AT
+< OK
+> AT+NAME?
+< +NAME:HC-05
+> AT+NAME=Robbal
+< OK
+> AT+NAME?
+< +NAME:Robbal
+> AT+PSWD?
+< +PIN:"1234"
+> AT+PSWD="1122"
+< OK
+> AT+PSWD?
+< +PIN:"1122"
+> AT+ROLE?
+< +ROLE:0
+> AT+UART?
+< +UART:9600,0,0
+> AT+UART=115200,0,0
+< OK
+> AT+UART?
+< +UART:115200,0,0
+> AT+RESET
+< OK
+```
+
+- [Полный мануал/даташит по модулю HC-05](http://www.electronicaestudio.com/docs/istd016A.pdf)
