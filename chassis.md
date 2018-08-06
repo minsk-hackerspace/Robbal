@@ -1,7 +1,7 @@
 ШАССИ
 ===
 
-Корпус вырезается лазером из фанеры (акрила) толщиной 3-4мм
+Шасси (корпус) вырезается лазером из фанеры (акрила) толщиной 3-4мм
 Необходимая площадь листа для всех деталей корпуса 300х400мм
 
 - [курпус в формате svg](https://raw.githubusercontent.com/minsk-hackerspace/Robbal/master/chassis.svg)
@@ -33,7 +33,7 @@
 
 ![Image](https://raw.githubusercontent.com/minsk-hackerspace/Robbal/master/images/DSC_9005.jpg)
 
-![Image](https://raw.githubusercontent.com/minsk-hackerspace/Robbal/master/images/DSC_9006.jpg)
+![Image](https://raw.githubusercontent.com/minsk-hackerspace/Robbal/master/images/DSC_9006_.jpg)
 
 ![Image](https://raw.githubusercontent.com/minsk-hackerspace/Robbal/master/images/DSC_9007.jpg)
 
