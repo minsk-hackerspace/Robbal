@@ -2,9 +2,15 @@ Robbal
 ===
 Схемы/Чертежи/Инструкции по сборке робота балансира 
 
+![Image](https://raw.githubusercontent.com/minsk-hackerspace/Robbal/master/images/DSC_8497.jpg)
+
 Робот баланси Robbal как отдельный [проект](https://hackerspace.by/projects/33) создается в рамках [курса](https://hackerspace.by/projects/31)
 
+![video](https://photos.app.goo.gl/wRgXpK7gQcrNLzWj7)
+
 Купить готовый набор(конструктор) для сборки можно [в магазине Белчип](http://belchip.by/product/?selected_product=34442)
+
+![Image](https://raw.githubusercontent.com/minsk-hackerspace/Robbal/master/images/DSC_8930.jpg)
 
 Основан на этом проекте [YABR](http://www.brokking.net/yabr_main.html)
 Имеет более простую схему, а так-же управляется по блютусу с любого Android телефона.
