@@ -19,14 +19,16 @@ Robbal
 
 [![ROBBAL](https://img.youtube.com/vi/0WFv116GKos/0.jpg)](https://www.youtube.com/watch?v=0WFv116GKos)
 
-Схема, чертеж, прошивка
+Набор, Схема, Чертеж, Прошивка
 ---
 
-- [схема робота](https://github.com/minsk-hackerspace/Robbal/blob/master/Robbal.png)
+- [Комплектация набора](https://github.com/minsk-hackerspace/Robbal/blob/master/set.md)
 
-- [чертеж корпуса](https://github.com/minsk-hackerspace/Robbal/blob/master/chassis.svg)
+- [Схема робота](https://github.com/minsk-hackerspace/Robbal/blob/master/Robbal.png)
 
-- скетч для Arduino
+- [Чертеж корпуса](https://github.com/minsk-hackerspace/Robbal/blob/master/chassis.svg)
+
+- Скетч для Arduino
 
 
 Инструкция по сборке:
