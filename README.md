@@ -30,7 +30,7 @@ Robbal
 
 - [Чертеж корпуса](https://github.com/minsk-hackerspace/Robbal/blob/master/chassis.svg)
 
-- Скетч для Arduino
+- [Скетч для Arduino](https://github.com/minsk-hackerspace/Robbal/blob/master/robbal/robbal.ino)
 
 
 Инструкция по сборке:
