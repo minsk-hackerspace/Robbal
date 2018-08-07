@@ -6,7 +6,7 @@ Robbal
 
 Робот баланси Robbal как отдельный [проект](https://hackerspace.by/projects/33) создается в рамках [курса](https://hackerspace.by/projects/31)
 
-![video](https://photos.app.goo.gl/wRgXpK7gQcrNLzWj7)
+![video](https://www.youtube.com/watch?v=0WFv116GKos)
 
 Купить готовый набор(конструктор) для сборки можно [в магазине Белчип](http://belchip.by/product/?selected_product=34442)
 
