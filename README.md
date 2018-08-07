@@ -4,11 +4,7 @@ Robbal
 
 ![Image](https://raw.githubusercontent.com/minsk-hackerspace/Robbal/master/images/DSC_8497.jpg)
 
-[![ROBBAL](https://img.youtube.com/vi/0WFv116GKos/0.jpg)](https://www.youtube.com/watch?v=0WFv116GKos)
-
 Робот баланси Robbal как отдельный [проект](https://hackerspace.by/projects/33) создается в рамках [курса](https://hackerspace.by/projects/31)
-
-
 
 Купить готовый набор(конструктор) для сборки можно [в магазине Белчип](http://belchip.by/product/?selected_product=34442)
 
@@ -17,6 +13,13 @@ Robbal
 Основан на этом проекте [YABR](http://www.brokking.net/yabr_main.html)
 Имеет более простую схему, а так-же управляется по блютусу с любого Android телефона.
 
+Видео
+---
+
+[![ROBBAL](https://img.youtube.com/vi/0WFv116GKos/0.jpg)](https://www.youtube.com/watch?v=0WFv116GKos)
+
+Схема, чертеж, прошивка
+---
 
 - [схема робота](https://github.com/minsk-hackerspace/Robbal/blob/master/Robbal.png)
 
