@@ -1,6 +1,7 @@
 Robbal
 ===
-Схемы/Чертежи/Инструкции по сборке робота балансира 
+
+Схемы, чертежи, инструкции по сборке робота балансира Rabbal
 
 ![Image](https://raw.githubusercontent.com/minsk-hackerspace/Robbal/master/images/DSC_8497.jpg)
 
@@ -35,10 +36,10 @@ Robbal
 
 - [шасси/корпус](https://github.com/minsk-hackerspace/Robbal/blob/master/chassis.md)
 
-- [сборка схемы]()
+- сборка схемы
 
-- [прошивка и нсатройка]()
+- прошивка и нсатройка
 
 - [найтройка bluetooth](https://github.com/minsk-hackerspace/Robbal/blob/master/bt.md)
 
-- [управление через android]()
+- управление через android
