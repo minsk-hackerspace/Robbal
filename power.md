@@ -1,8 +1,7 @@
 Блок питания
 ===
 
-Для питания роботу необходимы стабилизированные 3.3 вольта при токе до 100мА и нестабильные 9-24в для питания двигателей
-Блок питания - это часть котоая будет выполнять эту функцию, состоит из:
+Для питания роботу необходимы стабилизированные 3.3 вольта при токе до 100мА и нестабильные 9-24в с током до 1А для питания двигателей. Блок питания - это часть котоая будет выполнять эту функцию, состоит из:
 
 - 3х Аккамулятор типоразмера 18650
 
@@ -14,6 +13,14 @@
 
 
 ![Image](https://raw.githubusercontent.com/minsk-hackerspace/Robbal/master/images/DSC_9024.jpg)
+
+Схема
+---
+
+![Image](https://raw.githubusercontent.com/minsk-hackerspace/Robbal/master/images/Robbal_bp.png)
+
+Сборка
+---
 
 
 ![Image](https://raw.githubusercontent.com/minsk-hackerspace/Robbal/master/images/DSC_9025.jpg)
