@@ -15,6 +15,8 @@ Arduino Pro Mini | Модуль Atmega328 3В 8MHZ | 1
 Модуль Bluetooth | HC-05 Bluetooth Module | 1
 Плата для Bluetooth | Base board for HC-05 | 1	
 
+![Image](https://raw.githubusercontent.com/minsk-hackerspace/Robbal/master/images/DSC_8932.jpg)
+
 В комплект не входит необходимое для сборки и наладки:
 
 - Переходник UART-USB для программирования Arduino 
