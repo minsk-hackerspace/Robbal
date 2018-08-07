@@ -19,10 +19,12 @@ Robbal
 
 [![ROBBAL](https://img.youtube.com/vi/0WFv116GKos/0.jpg)](https://www.youtube.com/watch?v=0WFv116GKos)
 
-Набор, Схема, Чертеж, Прошивка
+Набор, Конструкция, Схема, Чертеж, Прошивка.
 ---
 
 - [Комплектация набора](https://github.com/minsk-hackerspace/Robbal/blob/master/set.md)
+
+- [Конструкция робота](https://github.com/minsk-hackerspace/Robbal/blob/master/design.md)
 
 - [Схема робота](https://github.com/minsk-hackerspace/Robbal/blob/master/Robbal.png)
 
