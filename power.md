@@ -17,6 +17,8 @@
 Схема
 ---
 
+На общей схеме БП находится в левой верхней чертверти схемы.
+
 ![Image](https://raw.githubusercontent.com/minsk-hackerspace/Robbal/master/images/Robbal_bp.png)
 
 Сборка
