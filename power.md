@@ -22,12 +22,13 @@
 Сборка
 ---
 
+Фото процесса сборки: просто спайка проводами и крепление на термоклей
 
 ![Image](https://raw.githubusercontent.com/minsk-hackerspace/Robbal/master/images/DSC_9025.jpg)
 
-
 ![Image](https://raw.githubusercontent.com/minsk-hackerspace/Robbal/master/images/DSC_9031.jpg)
 
+После сборки необходимо подкрутить подстроечный резистор на модуле DC/DC чтобы получить стабильное напряжение 3.3 В
 
 ![Image](https://raw.githubusercontent.com/minsk-hackerspace/Robbal/master/images/DSC_9026.jpg)
 
