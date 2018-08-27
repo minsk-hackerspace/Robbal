@@ -42,7 +42,7 @@ Robbal
 
 - [сборка схемы](https://github.com/minsk-hackerspace/Robbal/blob/master/assemble.md)
 
-- прошивка и нсатройка
+- [прошивка и нсатройка](https://github.com/minsk-hackerspace/Robbal/blob/master/tune.md)
 
 - [найтройка bluetooth](https://github.com/minsk-hackerspace/Robbal/blob/master/bt.md)
 
