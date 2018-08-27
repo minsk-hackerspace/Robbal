@@ -49,24 +49,21 @@
 Сборка основной схемы:
 ---
 
-![Image](https://raw.githubusercontent.com/minsk-hackerspace/Robbal/master/images/DSC_9115.jpg)
+Основная схема это соедененные проводами Ардуина, шаговые драйвера и гироскоп.
+Соединяется все по схеме достаточно просто с помощью небольшого количества проводков.
+Для удобства немлохо иметь коннекторы к шаговым двигателям и на питание всей схемы. 
 
-![Image](https://raw.githubusercontent.com/minsk-hackerspace/Robbal/master/images/DSC_9116.jpg)
+Из нюансов стоит обратить внимание и правильно подсоединить к драйверам пары обмоток шагового двигателя. 
+На фотографиях обмотки это синий+желтый и красный+зеленый.
+
+Так же можно предусмотреть перемычки для настройки микростеппинга на драйверах. Хорошо себя показали 1/2 и 1/4 микрошага.
+При 1/2 можно развить большую скорость. При 1/4 движения более плавные, робот легче в настройке и меньше падает.
+
+![Image](https://raw.githubusercontent.com/minsk-hackerspace/Robbal/master/images/DSC_9115.jpg)
 
 ![Image](https://raw.githubusercontent.com/minsk-hackerspace/Robbal/master/images/DSC_9117.jpg)
 
-![Image](https://raw.githubusercontent.com/minsk-hackerspace/Robbal/master/images/DSC_0006.jpg)
-
-![Image](https://raw.githubusercontent.com/minsk-hackerspace/Robbal/master/images/DSC_0007.jpg)
-
-![Image](https://raw.githubusercontent.com/minsk-hackerspace/Robbal/master/images/DSC_0008.jpg)
-
-![Image](https://raw.githubusercontent.com/minsk-hackerspace/Robbal/master/images/DSC_0010.jpg)
-
-![Image](https://raw.githubusercontent.com/minsk-hackerspace/Robbal/master/images/DSC_0011.jpg)
-
-![Image](https://raw.githubusercontent.com/minsk-hackerspace/Robbal/master/images/DSC_0141.jpg)
-
+![Image](https://raw.githubusercontent.com/minsk-hackerspace/Robbal/master/images/DSC_9116.jpg)
 
 
 Сборка блока управления:
@@ -84,3 +81,17 @@
 
 ![Image](https://raw.githubusercontent.com/minsk-hackerspace/Robbal/master/images/DSC_0206.jpg)
 
+
+Крепление схемы в корпус
+---
+После спайки соединенные проводами модули крепится на термоклей внутрь корпуса.
+
+![Image](https://raw.githubusercontent.com/minsk-hackerspace/Robbal/master/images/DSC_0007.jpg)
+
+![Image](https://raw.githubusercontent.com/minsk-hackerspace/Robbal/master/images/DSC_0008.jpg)
+
+![Image](https://raw.githubusercontent.com/minsk-hackerspace/Robbal/master/images/DSC_0110.jpg)
+
+![Image](https://raw.githubusercontent.com/minsk-hackerspace/Robbal/master/images/DSC_0111.jpg)
+
+![Image](https://raw.githubusercontent.com/minsk-hackerspace/Robbal/master/images/DSC_0141.jpg)
