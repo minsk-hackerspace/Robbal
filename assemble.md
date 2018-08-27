@@ -49,6 +49,23 @@
 Сборка основной схемы:
 ---
 
+![Image](https://raw.githubusercontent.com/minsk-hackerspace/Robbal/master/images/DSC_9115.jpg)
+
+![Image](https://raw.githubusercontent.com/minsk-hackerspace/Robbal/master/images/DSC_9116.jpg)
+
+![Image](https://raw.githubusercontent.com/minsk-hackerspace/Robbal/master/images/DSC_9117.jpg)
+
+![Image](https://raw.githubusercontent.com/minsk-hackerspace/Robbal/master/images/DSC_0006.jpg)
+
+![Image](https://raw.githubusercontent.com/minsk-hackerspace/Robbal/master/images/DSC_0007.jpg)
+
+![Image](https://raw.githubusercontent.com/minsk-hackerspace/Robbal/master/images/DSC_0008.jpg)
+
+![Image](https://raw.githubusercontent.com/minsk-hackerspace/Robbal/master/images/DSC_0010.jpg)
+
+![Image](https://raw.githubusercontent.com/minsk-hackerspace/Robbal/master/images/DSC_0011.jpg)
+
+![Image](https://raw.githubusercontent.com/minsk-hackerspace/Robbal/master/images/DSC_0141.jpg)
 
 
 
