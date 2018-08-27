@@ -61,8 +61,6 @@
 
 ![Image](https://raw.githubusercontent.com/minsk-hackerspace/Robbal/master/images/DSC_8933.jpg)
 
-![Image](https://raw.githubusercontent.com/minsk-hackerspace/Robbal/master/images/DSC_8933.jpg)
-
 ![Image](https://raw.githubusercontent.com/minsk-hackerspace/Robbal/master/images/DSC_8935.jpg)
 
 ![Image](https://raw.githubusercontent.com/minsk-hackerspace/Robbal/master/images/DSC_9033.jpg)
