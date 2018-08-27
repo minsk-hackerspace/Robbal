@@ -63,6 +63,8 @@
 
 ![Image](https://raw.githubusercontent.com/minsk-hackerspace/Robbal/master/images/DSC_9117.jpg)
 
+![Image](https://raw.githubusercontent.com/minsk-hackerspace/Robbal/master/images/DSC_0008.jpg)
+
 ![Image](https://raw.githubusercontent.com/minsk-hackerspace/Robbal/master/images/DSC_9116.jpg)
 
 
@@ -87,8 +89,6 @@
 После спайки соединенные проводами модули крепится на термоклей внутрь корпуса.
 
 ![Image](https://raw.githubusercontent.com/minsk-hackerspace/Robbal/master/images/DSC_0007.jpg)
-
-![Image](https://raw.githubusercontent.com/minsk-hackerspace/Robbal/master/images/DSC_0008.jpg)
 
 ![Image](https://raw.githubusercontent.com/minsk-hackerspace/Robbal/master/images/DSC_0110.jpg)
 
