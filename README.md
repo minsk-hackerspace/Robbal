@@ -40,7 +40,7 @@ Robbal
 
 - [шасси/корпус](https://github.com/minsk-hackerspace/Robbal/blob/master/chassis.md)
 
-- сборка схемы
+- [сборка схемы](https://github.com/minsk-hackerspace/Robbal/blob/master/assemble.md)
 
 - прошивка и нсатройка
 
