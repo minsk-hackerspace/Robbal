@@ -15,6 +15,8 @@
 
 - Спаять на печатной макетной плате 
 
+![Image](https://raw.githubusercontent.com/minsk-hackerspace/Robbal/master/images/DSC_0110.jpg)
+
 - Спаять модули проводами с некоторыми раззъемными соединениями
 
 Сборка последним способом показанв на картинках ниже.
@@ -88,9 +90,10 @@
 ---
 После спайки соединенные проводами модули крепится на термоклей внутрь корпуса.
 
-![Image](https://raw.githubusercontent.com/minsk-hackerspace/Robbal/master/images/DSC_0007.jpg)
+*ВАЖНО* Разместить ось гироскопа таким образом чтобы версикальной была либо ось Y либо ось X. 
+Маркировку осей можно увидеть на самом гироскопе.
 
-![Image](https://raw.githubusercontent.com/minsk-hackerspace/Robbal/master/images/DSC_0110.jpg)
+![Image](https://raw.githubusercontent.com/minsk-hackerspace/Robbal/master/images/DSC_0007.jpg)
 
 ![Image](https://raw.githubusercontent.com/minsk-hackerspace/Robbal/master/images/DSC_0111.jpg)
 
