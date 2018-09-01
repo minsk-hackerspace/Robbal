@@ -9,7 +9,7 @@
 Это делается при первом включении. Проще всего это сделать при помощи измерения напряжения на подстроечном резисторе, которым собственно и ограничивается ток. Формула для драйвера DRV8825 такая: ``` Imax = 2 * Vref ```
 Если используются шаговые двигатели с током обмоток 0.6А, то подстроечный резистор необходимо накрутить так, чтобы на нем было напряжение 0.3В
 
-![Image](https://raw.githubusercontent.com/minsk-hackerspace/Robbal/master/images/DSC_9034_.jpg)
+![Image](https://raw.githubusercontent.com/minsk-hackerspace/Robbal/master/images/DSC_9034_1.jpg)
 
 Более подробная стастья по настройке [тут](https://www.pololu.com/product/1182)
 
